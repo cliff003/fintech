@@ -1,4 +1,4 @@
-# fintech
+# Fintech
 
 A little helper python script to find year-end stock price.
 
